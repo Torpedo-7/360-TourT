@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" appversion="6.1.11" apprev="18043">
+  <panorama id="node1">
+    <input width="232" levelbias="0.400" levelingroll="0" height="232" overlap="1" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000">
+      <level width="232" height="232" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-48.0197" pan="-180" fovpixel="2"/>
+      <max tilt="48.0197" fov="120" pan="180" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="" title="" source="" heading="0" comment="" nodeid="node1" info="" datetime="" latitude="" tags="Downloads" author="" longitude="" description="" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textalpha="1" width="180" backgroundcolor="0xffffff" enabled="1" backgroundalpha="1" borderradius="1" borderalpha="1" height="20" background="1" wordwrap="1" bordercolor="0x000000" border="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot target="" tilt="-2.6" title="360 Equirectangular Panoramic Interior Of Modern Villa With Living Room, Kitchen And Stairs" pan="-38.45" skinid="ht_node" url="{node3}" id="Point01" description=""/>
+      <hotspot target="" tilt="0" title="" pan="-139.21" skinid="ht_node" url="{node2}" id="Point02" description=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" enabled="1" zoomspeed="2" blendcolor="0x000000" softedge="0" zoomfov="20" zoomoutpause="1" zoomafterinfov="90" type="crossdissolve" zoomafteroutfov="20" zoomout="0" zoomin="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" contextfullscreen="1" invertwheel="0" rubberband="0" lockedwheel="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboard="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="100" levelbias="0.400" levelingroll="0" height="100" overlap="1" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000">
+      <level width="100" height="100" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" tilt="90" fov="120" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="" title="" source="" heading="0" comment="" nodeid="node2" info="" datetime="" latitude="" tags="Downloads" author="" longitude="" description="" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textalpha="1" width="180" backgroundcolor="0xffffff" enabled="1" backgroundalpha="1" borderradius="1" borderalpha="1" height="20" background="1" wordwrap="1" bordercolor="0x000000" border="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot target="" tilt="-1.07" title="" pan="-237.27" skinid="ht_node" url="{node1}" id="Point01" description=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" enabled="1" zoomspeed="2" blendcolor="0x000000" softedge="0" zoomfov="20" zoomoutpause="1" zoomafterinfov="90" type="crossdissolve" zoomafteroutfov="20" zoomout="0" zoomin="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" contextfullscreen="1" invertwheel="0" rubberband="0" lockedwheel="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboard="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input width="147" levelbias="0.400" levelingroll="0" height="147" overlap="1" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000">
+      <level width="147" height="147" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-57.5624" pan="-180" fovpixel="2"/>
+      <max tilt="57.5624" fov="120" pan="180" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="" title="360 Equirectangular Panoramic Interior Of Modern Villa With Living Room, Kitchen And Stairs" source="" heading="0" comment="" nodeid="node3" info="" datetime="" latitude="" tags="Downloads" author="onurdongel" longitude="" description="" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textalpha="1" width="180" backgroundcolor="0xffffff" enabled="1" backgroundalpha="1" borderradius="1" borderalpha="1" height="20" background="1" wordwrap="1" bordercolor="0x000000" border="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot target="" tilt="19.25" title="" pan="-32.09" skinid="ht_node" url="{node1}" id="Point01" description=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" enabled="1" zoomspeed="2" blendcolor="0x000000" softedge="0" zoomfov="20" zoomoutpause="1" zoomafterinfov="90" type="crossdissolve" zoomafteroutfov="20" zoomout="0" zoomin="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" contextfullscreen="1" invertwheel="0" rubberband="0" lockedwheel="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboard="0" simulatemass="1"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" title="" source="" heading="0" comment="" nodeid="master" info="" datetime="" latitude="" tags="" author="" longitude="" description="" customnodeid=""/>
+  </masternode>
+</tour>
